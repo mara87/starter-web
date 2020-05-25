@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This is a simple website project.
-Adding a line for rebasing sample.
+Adding a line for rebasing example.
+More changes here...
 
 ## Introduction
 
